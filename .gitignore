@@ -35,3 +35,4 @@ lerna-debug.log*
 
 #personal
 package-lock.json
+.env.prod
